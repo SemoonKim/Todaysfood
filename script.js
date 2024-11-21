@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded",
 
                         break
                         case 4 : muneSelected.textContent="물만두"
-                        img_selected.setAttribute("src","https://github.com/SemoonKim/Todaysfood/blob/main/image/dump.png")
+                        img_selected.setAttribute("src","/image/dump.png")
 
                         break   
                         case 5 : muneSelected.textContent="외식 NICE!"
