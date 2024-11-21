@@ -26,11 +26,12 @@ body {
 
 #img_selected{
     position: absolute;
-  left: 0;
+    left: 0;
     width: 100%;
     height: 100%;
     object-fit: cover;
     margin: auto;
+    border-radius: 20%;
 }
 
 #button{
